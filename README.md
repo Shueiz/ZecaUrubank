@@ -132,4 +132,4 @@ de Abertura do Projeto;
 - Desenvolvimento de um aplicativo lançado dentro de
 plataformas de distribuição como Google Play e Apple Play.
 
-[Introdução](https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/1-Escopo/1.Introducao.md)
+
