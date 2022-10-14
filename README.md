@@ -16,3 +16,6 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/2.BancoDados.md"> Banco de Dados </a>
 <h2 align="start"> Autores </h2>
 
+- Matheus Araujo Ferreira - <a href="https://github.com/DeathG22"> Github </a> - <a href="https://www.instagram.com/matheus.arafer/"> Instagram </a> <br>
+- Matheus Concesso Araujo Pereira 
+- Marcos Paulo Ferreira
