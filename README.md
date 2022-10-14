@@ -10,3 +10,4 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h3 align="start"> Configurações do projeto </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/2-Configura%C3%A7%C3%B5es%20do%20Projeto/1.O%20que%20fazer.md"> Reprodução do Projeto </a>
 <h3 align="start"> Rotas </h3>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/3-Rotas/1.Principais%20Rotas.md"> Rotas Do Projeto </a>
