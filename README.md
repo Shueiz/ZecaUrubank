@@ -12,4 +12,7 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h3 align="start"> Rotas </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/3-Rotas/1.Principais%20Rotas.md"> Rotas Do Projeto </a>
 <h3 align="start"> Modelagem do Banco de Dados </h3>
--   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/1.ModeloLogico.md"> Modelo Lógico </a>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/1.ModeloLogico.md"> Modelo Lógico </a> <br>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/2.BancoDados.md"> Banco de Dados </a>
+<h2 align="start"> Autores </h2>
+
