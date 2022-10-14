@@ -47,8 +47,7 @@ presentes no ramo bancário.
         
 **5. Entregas do Projeto**
 
-- Área de Login
-- Área de Investimento
+- Dados de Investimento integrado com o banco de dados;
 - Gráficos
 
 **6. Exclusões do Projeto**
@@ -83,27 +82,19 @@ um banco real.
 
 **2. Entregas do Projeto**
 
-**2.1. Área de Login**
+   **2.1. Área de Investimento**
 
-Para acessar os serviços disponíveis dentro do aplicativo, é
-necessário cadastrar sua conta dentro do aplicativo, envolvendo todos
-os passos de validação. 
-Com isso o usuário poderá ter acesso a sua
-aba de investimento e acesso aos gráficos.
+  Dentro do aplicativo, o usuário possui acesso a sua área de
+  investimentos, que é ligada ao banco de dados, apresentando todas
+  as informações de investimento, sendo analisadas e organizada por 
+  meio de gráficos.
 
-**2.2. Área de Investimento**
+   **2.2. Gráficos**
 
-Dentro do aplicativo, o usuário possui acesso a sua área de
-investimentos, que possui as opções de acesso a renda fixa e renda
-variável dando a possibilidade de aplicar o valor desejado para
-investir.
-
-**2.3. Gráficos**
-
-Após todos os dados de investimento serem aplicados, será gerado
-um gráfico contendo todos as aplicações e resultados do investimento
-aplicado pelo usuário, dando a ele um controle de como seu dinheiro
-está sendo utilizado e como está sendo o rendimento.
+  Após todos os dados de investimento serem aplicados, será gerado
+  um gráfico contendo todos as aplicações e resultados do investimento
+  aplicado pelo usuário, dando a ele um controle de como seu dinheiro
+  está sendo utilizado e como está sendo o rendimento.
 
 **3. Critérios de Aceitação**
 
