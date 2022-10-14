@@ -3,4 +3,5 @@
 <h1 align="center"> Sobre o Projeto </h1>
 A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimentos de banco de dados online e criação de aplicações mobile.
 <h2 align="start"> ROADMAP </h2>
--   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/1-Escopo/1.Introducao.md"> Introdução </a>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/1-Escopo/1.Introducao.md"> Introdução </a> <br>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/1-Escopo/2.Funcionalidades.md"> Funcionalidades </a>
