@@ -17,5 +17,5 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h2 align="start"> Autores </h2>
 
 - Matheus Araujo Ferreira - <a href="https://github.com/DeathG22"> Github </a> - <a href="https://www.instagram.com/matheus.arafer/"> Instagram </a> <br>
-- Matheus Concesso Araujo Pereira 
-- Marcos Paulo Ferreira
+- Matheus Concesso Araujo Pereira - <a href="https://github.com/Shueiz"> Github </a> - <a href="https://www.instagram.com/mconcess0/"> Instagram </a> <br>
+- Marcos Paulo Ferreira - <a href="https://github.com/eobragasem"> Github </a> - <a href="https://www.instagram.com/marcospaulo_fmn/"> Instagram </a> 
