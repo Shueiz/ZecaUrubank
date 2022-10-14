@@ -9,3 +9,4 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/1-Escopo/3-Escopo.md"> Escopo </a>
 <h3 align="start"> Configurações do projeto </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/2-Configura%C3%A7%C3%B5es%20do%20Projeto/1.O%20que%20fazer.md"> Reprodução do Projeto </a>
+<h3 align="start"> Rotas </h3>
