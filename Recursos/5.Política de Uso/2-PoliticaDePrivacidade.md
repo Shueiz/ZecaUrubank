@@ -82,12 +82,78 @@ Esses são os seus dados pessoais tratados pelo ZecaUrubank, divididos por categ
 
 ### Dados pessoais informados pelo titular
 
-**1.** Dados cadastrais, tais como: nome, documentos de identificação, nacionalidade, endereço, data de nascimento, filiação, gênero, entre outros; <br>
-**2.** Dados de contato, como telefone e e-mail;     
-**3.** Empresa em que trabalha; <br>
-**4.** Profissão; <br>
-**5.** Renda declarada e comprovante; <br>
-**6.** Dados biométricos, tais como a fotografia do seu documento de identificação e do seu rosto.
+- Dados cadastrais, tais como: nome, documentos de identificação, nacionalidade, endereço, data de nascimento, filiação, gênero, entre outros; <br>
+
+- Dados de contato, como telefone e e-mail;     
+
+- Empresa em que trabalha; <br>
+
+- Profissão; <br>
+
+- Renda declarada e comprovante; <br>
+
+- Dados biométricos, tais como a fotografia do seu documento de identificação e do seu rosto.
+
+
+### Dados pessoais que coletamos de terceiros
+
+- Dados cadastrais, tais como: nome, filiação, data de nascimento, CPF, número de telefone, endereço, entre outros; <br>
+
+- Dados sobre restrições financeiras, tais como: negativações, valores devidos, datas de vencimento, quantidades de consultas, entre outros; <br>
+
+- Informações sobre histórico de crédito; <br>
+
+- Score gerado por bureaus de crédito; <br>
+
+- Informações de dívidas a vencer ou vencidas, coobrigações e garantias; <br>
+
+- Se você faz parte de alguma lista de Pessoa Politicamente Exposta (PPE) ou lista de restrição (como, OFAC, CSNU e outras listas internacionais); <br>
+
+- Informações constantes da base de dados do Sistema de Informações de Crédito (SCR), mediante consentimento. <br>
+
+### Dados de navegação e do dispositivo
+
+- Endereço IP do dispositivo móvel utilizado para acessar os serviços ou produtos do Nubank; <br>
+
+- Interações realizadas e perfil de uso de sites, blogs e aplicativo do Nubank; <br>
+
+- Dados técnicos, como informações de URL, de conexão de rede, do provedor, e do dispositivo; <br>
+
+- Cookies; <br>
+
+- Atributos do dispositivo, tais como ID, sistema operacional, navegador e modelo; <br>
+
+- Dados de geolocalização do dispositivo caso você autorize a coleta a partir do seu dispositivo. <br>
+
+
+### Dados pessoais originados do uso dos nossos produtos e serviços
+
+- Dados de contratação de nossos produtos e serviços, tais como cartão de crédito e Rewards; <br>
+
+- Dados de transações e movimentações financeiras na conta do Nubank, como débitos, saques, pagamentos 
+aplicações financeiras e transferências, incluindo também informações dos remetentes e beneficiários; <br>
+
+- Dados de contratação de operações de crédito, tais como empréstimo pessoal, negociação de valores 
+devidos em razão do uso do cartão de crédito e parcelamento de fatura; <br>
+
+- Data de convite para se tornar um Cliente do Nubank; <br>
+
+- Indicações de países de destino para viagens internacionais, incluindo tempo de permanência; <br>
+
+- Histórico de crédito; <br>
+
+- Histórico de atendimento ao cliente; <br>
+
+- Código do seu banco de origem, caso ative a portabilidade salarial; <br>
+
+- Acesso à sua lista de contatos, caso você  ative voluntariamente essa funcionalidade no nosso aplicativo; <br>
+
+### Dados públicos
+
+
+
+
+
 
 
 
