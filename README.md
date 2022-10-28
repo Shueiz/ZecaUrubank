@@ -16,7 +16,7 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/1.ModeloLogico.md"> Modelo Lógico </a> <br>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/2.BancoDados.md"> Banco de Dados </a>
 <h3 align="start"> Regras de Autenticação e de Negócios </h3>
-
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/6-Regras%20de%20autentica%C3%A7%C3%A3o%20e%20negocio/2.RegraDeAutenti.md"> Regras de Autenticação </a> <br>
 <h3 align="start"> Políticas de Uso e Privacidade </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/1-TermoDeUso.md"> Termos de Uso </a> <br>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/2-PoliticaDePrivacidade.md"> Política de Privacidade </a> 
@@ -29,4 +29,3 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 - Marcos Paulo Ferreira - <a href="https://github.com/eobragasem"> Github </a> - <a href="https://www.instagram.com/marcospaulo_fmn/"> Instagram </a> 
 
 
-https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/3-Rotas/2-Padroniza%C3%A7ao.md
