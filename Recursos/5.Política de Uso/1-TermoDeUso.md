@@ -73,35 +73,35 @@ direitos sobre qualquer conteúdo a ele relacionado ou à base de dados e inform
 Aplicativo, desenvolvidas e implementadas pelo ZecaUrubank.
 
 Com relação ao Aplicativo, você não poderá, nem permitir que terceiros possam: <br>
-1. **(i)** Utilizá-lo para a prática de atos ilícitos e violação quaisquer direitos, inclusive os direitos
+> Utilizá-lo para a prática de atos ilícitos e violação quaisquer direitos, inclusive os direitos
 de propriedade intelectual e de autoria do ZecaUrubank e/ou de terceiros; <br>
 
-2. **(ii)** Violar a privacidade do ZecaUrubank e de terceiros; <br> 
+> Violar a privacidade do ZecaUrubank e de terceiros; <br> 
 
-3. **(iii)** Praticar atos contra a moral e os bons costumes;
+> Praticar atos contra a moral e os bons costumes;
 
-4. **(iv)** Copiar, ceder, sublicenciar, vender, dar em locação ou em garantia, reproduzir, doar,
+> Copiar, ceder, sublicenciar, vender, dar em locação ou em garantia, reproduzir, doar,
 alienar de qualquer forma ou modalidade, total ou parcialmente, o Aplicativo ou
 quaisquer informações a ele relativas; <br>
 
-5. **(v)** Reproduzir, adaptar, modificar e/ou empregar,
+> Reproduzir, adaptar, modificar e/ou empregar,
 no todo ou em parte, para qualquer fim, o conteúdo do Aplicativo; <br>
 
-6. **(vi)** Utilizá-lo indevidamente empregando Malware e/ou práticas nocivas ao ZecaUrubank ou a terceiros, tais
+> Utilizá-lo indevidamente empregando Malware e/ou práticas nocivas ao ZecaUrubank ou a terceiros, tais
 como, spamming, spoofing, exploits crashing, phishing, flooding e root kits etc.; <br>
 
-7. **(vii)** Praticar engenharia reversa ou social, descompilação ou desmontagem, ou ainda, extrair
+> Praticar engenharia reversa ou social, descompilação ou desmontagem, ou ainda, extrair
 os códigos fonte; <br>
 
-8. **(viii)** Publicar, transmitir ou introduzir qualquer arquivo, software ou
+> Publicar, transmitir ou introduzir qualquer arquivo, software ou
 rotina que possa contaminar, destruir ou interferir no bom funcionamento do Aplicativo; <br>
 
-9. **(ix)** Efetuar carregamento, envio e/ou transmissão de qualquer publicação que promova
+> Efetuar carregamento, envio e/ou transmissão de qualquer publicação que promova
 ou transmita material ilegal, de assédio, de discriminação, de difamação, de abuso, de
 uso de drogas ou outros que sejam prejudiciais ou censuráveis de qualquer tipo ou
 natureza; <br>
 
-10. **(x)** Burlar ou tentar burlar os controles de segurança do Aplicativo para realizar
+> Burlar ou tentar burlar os controles de segurança do Aplicativo para realizar
 ataques contra o ZecaUrubank, contra si próprio ou contra outros usuários e terceiros
 
 ### Aplicativos de Terceiros 
