@@ -22,7 +22,7 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/1-TermoDeUso.md"> Termos de Uso </a> <br>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/2-PoliticaDePrivacidade.md"> Política de Privacidade </a> 
 <h3 align="start"> Eventos da Plataforma </h3>
--   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/7-RespostasEventos/1.EventoUsuarioPlataforma.md"> Evento Usuário-Plataforma </a> <br>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/7-RespostasEventos/1.EventoUsuarioPlataforma.md"> Eventos de Usuário e Sistema </a> <br>
 
 <h2 align="start"> Autores </h2>
 
