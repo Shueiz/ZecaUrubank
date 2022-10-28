@@ -20,7 +20,7 @@ sendo proposto nestes Termos de Uso, abstendo-se de dar o Aceite e desistindo de
 avançar no Aplicativo, desinstalando-o do seu smartphone
 
 Pelo Aplicativo você poderá receber notificações “**Push**” e mensagens “**SMS**”(Short
-Message Service), sobre campanhas de comunicação e marketing do Sicredi ou sobre o
+Message Service), sobre campanhas de comunicação e marketing do ZecaUrubank ou sobre o
 seu acesso e suas transações no Aplicativo. Para tanto, ao dar o Aceite nos Termos de
 Uso, você consente de forma prévia e expressa, que o seu número de smartphone seja
 compartilhado com a operadora de telefonia celular para o envio de mensagens SMS.
@@ -54,10 +54,62 @@ Se você souber do uso não autorizado ou inadequado do Aplicativo ou de qualque
 violação de segurança, você deverá notificar o ZecaUrubank o quanto antes, através dos Canais
 de Atendimento.
 
-Licença de Uso 
+### Licença de Uso 
 
-Saiba que o Sicredi concede a você uma licença de uso pessoal, limitada,
+Saiba que o ZecaUrubank concede a você uma licença de uso pessoal, limitada,
 temporária, mundial, revogável, não exclusiva e intransferível de uso da solução
-tecnológica (softwares) do Sicredi. Atenção, você não poderá permitir o uso do Aplicativo
+tecnológica (softwares) do ZecaUrubank. Atenção, você não poderá permitir o uso do Aplicativo
 a terceiros ou utilizá-lo para qualquer outra finalidade não descrita aqui!
+
+### Propriedade Intelectual
+
+A “Propriedade Intelectual” da solução tecnológica do ZecaUrubank, desenvolvida pelo ZecaUrubank e
+para o ZecaUrubank por seus colaboradores e Contratados, pertence exclusivamente ao ZecaUrubank,
+assim como a identidade visual (arte gráfica visual), conteúdo, domínio, slogan ou
+expressões de publicidade inseridos no Aplicativo.
+
+Em nenhuma hipótese, você deverá acessar o código fonte do Aplicativo, nem terá
+direitos sobre qualquer conteúdo a ele relacionado ou à base de dados e informações do
+Aplicativo, desenvolvidas e implementadas pelo ZecaUrubank.
+
+Com relação ao Aplicativo, você não poderá, nem permitir que terceiros possam: <br>
+1. **(i)** Utilizá-lo para a prática de atos ilícitos e violação quaisquer direitos, inclusive os direitos
+de propriedade intelectual e de autoria do ZecaUrubank e/ou de terceiros; <br>
+
+2. **(ii)** Violar a privacidade do ZecaUrubank e de terceiros; <br> 
+
+3. **(iii)** Praticar atos contra a moral e os bons costumes;
+
+4. **(iv)** Copiar, ceder, sublicenciar, vender, dar em locação ou em garantia, reproduzir, doar,
+alienar de qualquer forma ou modalidade, total ou parcialmente, o Aplicativo ou
+quaisquer informações a ele relativas; <br>
+
+5. **(v)** Reproduzir, adaptar, modificar e/ou empregar,
+no todo ou em parte, para qualquer fim, o conteúdo do Aplicativo; <br>
+
+6. **(vi)** Utilizá-lo indevidamente empregando Malware e/ou práticas nocivas ao ZecaUrubank ou a terceiros, tais
+como, spamming, spoofing, exploits crashing, phishing, flooding e root kits etc.; <br>
+
+7. **(vii)** Praticar engenharia reversa ou social, descompilação ou desmontagem, ou ainda, extrair
+os códigos fonte; <br>
+
+8. **(viii)** Publicar, transmitir ou introduzir qualquer arquivo, software ou
+rotina que possa contaminar, destruir ou interferir no bom funcionamento do Aplicativo; <br>
+
+9. **(ix)** Efetuar carregamento, envio e/ou transmissão de qualquer publicação que promova
+ou transmita material ilegal, de assédio, de discriminação, de difamação, de abuso, de
+uso de drogas ou outros que sejam prejudiciais ou censuráveis de qualquer tipo ou
+natureza; <br>
+
+10. **(x)** Burlar ou tentar burlar os controles de segurança do Aplicativo para realizar
+ataques contra o ZecaUrubank, contra si próprio ou contra outros usuários e terceiros
+
+### Aplicativos de Terceiros 
+
+O Aplicativo pode estar integrado com aplicativos, sites e
+serviços de terceiros, utilizados e contratados também por você, os quais você reconhece
+e concorda que está sujeito aos termos de uso e política de privacidade destes, e que o
+ZecaUrubank não endossa nem se responsabiliza pelo comportamento, recursos ou conteúdo
+de qualquer Aplicativo de Terceiro acessado por você, ou por qualquer transação que
+você possa fazer com o provedor destes Aplicativos de Terceiros. 
 
