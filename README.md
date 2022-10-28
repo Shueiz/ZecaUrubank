@@ -14,7 +14,11 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h3 align="start"> Modelagem do Banco de Dados </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/1.ModeloLogico.md"> Modelo Lógico </a> <br>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/2.BancoDados.md"> Banco de Dados </a>
+<h3 align="start"> Política de Uso </h3>
+-   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/1-TermoDeUso.md"> Termos de Uso </a> <br>
+
 <h2 align="start"> Autores </h2>
+
 
 - Matheus Araujo Ferreira - <a href="https://github.com/DeathG22"> Github </a> - <a href="https://www.instagram.com/matheus.arafer/"> Instagram </a> <br>
 - Matheus Concesso Araujo Pereira - <a href="https://github.com/Shueiz"> Github </a> - <a href="https://www.instagram.com/mconcess0/"> Instagram </a> <br>
