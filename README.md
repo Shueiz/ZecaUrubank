@@ -14,8 +14,9 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h3 align="start"> Modelagem do Banco de Dados </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/1.ModeloLogico.md"> Modelo Lógico </a> <br>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/4-Modelagem/2.BancoDados.md"> Banco de Dados </a>
-<h3 align="start"> Política de Uso </h3>
+<h3 align="start"> Políticas de Uso e Privacidade </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/5.Pol%C3%ADtica%20de%20Uso/1-TermoDeUso.md"> Termos de Uso </a> <br>
+
 
 <h2 align="start"> Autores </h2>
 
