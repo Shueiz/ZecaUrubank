@@ -300,7 +300,11 @@ Elencamos abaixo quais são esses direitos:
 
 ### Revogação do consentimento
 
-> Caso você tenha dado o seu consentimento para tratamento dos seus dados pessoais, você pode solicitar a revogação desta autorização. A revogação do consentimento pode resultar na impossibilidade de uso de algumas funcionalidades do aplicativo, ou até mesmo no encerramento dos serviços prestados, mas não impede o uso de (i) dados anonimizados; e (ii) dados cujo tratamento esteja baseado em outra hipótese legal prevista na LGPD.
+> Caso você tenha dado o seu consentimento para tratamento dos seus dados pessoais, você pode solicitar a revogação desta autorização. A revogação do consentimento pode resultar na impossibilidade de uso de algumas funcionalidades do aplicativo, ou até mesmo no encerramento dos serviços prestados, mas não impede o uso de:
+
+>  (i) dados anonimizados; <br> 
+
+>  (ii) dados cujo tratamento esteja baseado em outra hipótese legal prevista na LGPD.
 
 
 
