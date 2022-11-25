@@ -25,6 +25,9 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 
 <h2 align="start"> Autores </h2>
 
+<h2 align="start"> Código </h2>
+-   <a href="https://github.com/matheusodete/ZecaUrubank"> Código para o aplicativo mobile </a>
+
 
 - Matheus Araujo Ferreira - <a href="https://github.com/matheusodete"> Github </a> - <a href="https://www.instagram.com/matheus.arafer/"> Instagram </a> <br>
 - Matheus Concesso Araujo Pereira - <a href="https://github.com/Shueiz"> Github </a> - <a href="https://www.instagram.com/mconcess0/"> Instagram </a> <br>
