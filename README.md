@@ -23,10 +23,12 @@ A finalidade do projeto é fazer uma aplicação para melhorar nossos conhecimen
 <h3 align="start"> Eventos da Plataforma </h3>
 -   <a href="https://github.com/Shueiz/ZecaUrubank/blob/main/Recursos/7-RespostasEventos/1.EventoUsuarioPlataforma.md"> Eventos de Usuário e Sistema </a> <br>
 
+<h3 align="start"> Código </h3>
+-   <a href="https://github.com/matheusodete/ZecaUrubank"> Código para o aplicativo mobile </a>
+
+
 <h2 align="start"> Autores </h2>
 
-<h2 align="start"> Código </h2>
--   <a href="https://github.com/matheusodete/ZecaUrubank"> Código para o aplicativo mobile </a>
 
 
 - Matheus Araujo Ferreira - <a href="https://github.com/matheusodete"> Github </a> - <a href="https://www.instagram.com/matheus.arafer/"> Instagram </a> <br>
